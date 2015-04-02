@@ -1,0 +1,27 @@
+{
+  "name": "browserify-zepto",
+  "version": "1.1.4",
+  "description": "Browserify version of Zepto",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:peutetre/zepto-browserify.git"
+  },
+  "keywords": [
+    "zepto",
+    "browserify",
+    "browser"
+  ],
+  "author": "Paul Panserrieu <paul@42loops.com> (http://42loops.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peutetre/zepto-browserify/issues"
+  },
+  "homepage": "https://github.com/peutetre/zepto-browserify",
+  "devDependencies": {
+    "q-io": "~1.10.8"
+  }
+}
